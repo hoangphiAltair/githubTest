@@ -7,7 +7,7 @@ from tkinter import filedialog
 import os
 
 
-
+#change 1st time
 root = tk.Tk()
 root.withdraw()  # hide the root window
 #set initial folder as Desktop
