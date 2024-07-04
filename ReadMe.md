@@ -7,5 +7,4 @@ Some discription 3
 #demo file 4
 some discription four
 #add more
-#three
-#lines
+#delete 2 lines, add 1 line
